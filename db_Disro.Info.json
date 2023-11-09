@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "654c79c38b315e7d944a7268"
+  },
+  "name": "pure",
+  "img": "image1"
+},
+{
+  "_id": {
+    "$oid": "654c7a058b315e7d944a726f"
+  },
+  "name": "XXX",
+  "img": "image2"
+},
+{
+  "_id": {
+    "$oid": "654c7a118b315e7d944a7270"
+  },
+  "name": "P",
+  "img": "image3"
+},
+{
+  "_id": {
+    "$oid": "654c7a1c8b315e7d944a7271"
+  },
+  "name": "M",
+  "img": "image4"
+}]
